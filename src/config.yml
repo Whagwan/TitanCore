@@ -1,0 +1,11 @@
+welcometitles:
+  - '&2&lTitan &4&LCore_&5&lThis is a subtitle!'
+  - '&6&lAnother Title_&5&lTesting sub.'
+announcer:
+  interval: 30
+  worlds:
+    - hub-main
+    - hub-borderline
+  messages:
+    - '&5This is a test announcement!'
+    - '&2This is another test announcement!'

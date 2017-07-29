@@ -1,0 +1,19 @@
+name: TitanHub
+description: Runs the hub and vanity system.
+author: Whagwan
+main: TitanCore.TCHub
+version: 1.0
+website: http://www.TitanCore.net
+depend: [LibsDisguises, TitanAPI]
+commands:
+    profile:
+        description: Shows the player a GUI interface with all their stats for all games.
+        aliases: stats
+    sethub:
+        description: Sets the specified lobby spawn, Devs Only.
+    tchub:
+        description: Shows author information, also used for reloads.
+    tutorial:
+        description: Commands for the tutorial system.
+    snowman:
+        description: spawn snowman.
