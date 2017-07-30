@@ -1,6 +1,6 @@
 name: TitanHub
 description: Runs the hub and vanity system.
-author: Whagwan
+author: ZBE
 main: TitanCore.TCHub
 version: 1.0
 website: http://www.TitanCore.net
